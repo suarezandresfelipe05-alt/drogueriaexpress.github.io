@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
+
+
+
+body{
+    background-color: #4D694e;
+    background-image: url(fondoblanco.jpeg);
+    background-size: 1100px;
+    background-repeat: no-repeat;
+}
+
+
+
+.pastilla{
+    width: 46%;
+    height: 80%;
+    position: absolute;
+    margin-left: 57%; 
+    margin-top: 60px;
+}
+
+.logo{
+    width: 6%;
+    border-radius: 50%;
+
+}
+
+button{
+    border-radius: 50px;
+}
+
+.navegacion{
+    display: flex;
+    justify-content: center;
+    margin-top: -60px;
+    gap: 260px;
+    
+    
+}
+
+a{
+    color: #04300b;
+    text-decoration: none;
+   
+   
+}
+
+
+footer{
+    background-color: #4D694e;
+    height: 100px;
+    margin-top: 100px;
+}
+
+.footer1{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 30px;
+}
+
+.logofooter{
+    width: 6%;
+    border-radius: 50%;
+}
+
+
